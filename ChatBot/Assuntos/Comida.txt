@@ -1,0 +1,6 @@
+Qual seu prato preferido?
+O meu prato preferido é pizza
+O que voce esta com vontade de comer agora?
+Estou com vontade de comer chocolate
+O que voce nao gosta de comer?
+Eu odeio picles 
